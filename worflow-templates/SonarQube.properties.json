@@ -1,0 +1,4 @@
+{
+    "name": "OMI SonarQube Workflow",
+    "description": "SonarQube Check for Pull Request starter workflow."
+}
